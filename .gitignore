@@ -1,0 +1,12 @@
+target/
+project/target/
+project/project/
+.metals/
+.bloop/
+.idea/
+*.class
+*.log
+.DS_Store
+output/
+spark-warehouse/
+metastore_db/
